@@ -16,8 +16,13 @@ Este repositorio contiene la integración de **Finix Token** con **Phantom Walle
 3. Se pueden realizar transacciones en la blockchain de Solana.  
 
 ## 📂 Estructura del Repositorio  
+   README.md
+   Roadmap.png
+   WhitePaper.pdf
+
 
 📂 wpcode-integration
+
  ├── header-code.js  # Código insertado en el Header
  
  ├── body-code.js    # Código insertado en el Body
