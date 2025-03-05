@@ -19,8 +19,11 @@ Este repositorio contiene la integración de **Finix Token** con **Phantom Walle
 
 📂 wpcode-integration
  ├── header-code.js  # Código insertado en el Header
+ 
  ├── body-code.js    # Código insertado en el Body
+ 
  ├── footer-code.js  # Código insertado en el Footer
+ 
  ├── README.md       # Explicación del código 
 
 ## 📩 Contacto  
