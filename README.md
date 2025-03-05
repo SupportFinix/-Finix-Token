@@ -21,4 +21,4 @@ Este repositorio contiene la integración de **Finix Token** con **Phantom Walle
 - **custom-code/** → Código manual agregado en WordPress (JS/PHP).  
 
 ## 📩 Contacto  
-Si tienes dudas, contacta con el equipo de Finix en [tuemail@finixtoken.com](mailto:support@finixtoken.com,team@finixtoken.com).  
+Si tienes dudas, contacta con el equipo de Finix en [support@finixtoken.com](mailto:support@finixtoken.com,team@finixtoken.com).  
